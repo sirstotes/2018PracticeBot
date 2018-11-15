@@ -27,10 +27,6 @@ hs_err_pid*
 *.iml
 *.ipr
 *.iws
-modules.xml
-
-
 
 #Apple junk files
-
 .DS_Store
