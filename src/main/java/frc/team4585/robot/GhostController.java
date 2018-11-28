@@ -21,10 +21,10 @@ public class GhostController {
 	private TaskSequenceGroup _CurrentTaskSequenceGroup;
 
 	private TaskSequenceGroup _TaskSequenceGroup1 = new TaskSequenceGroup("SeqGroup1");
-	private TaskSequenceGroup _TaskSequenceGroup2 = new TaskSequenceGroup("SeqGroup2");;
-	private TaskSequenceGroup _TaskSequenceGroup3 = new TaskSequenceGroup("SeqGroup3");;
-	private TaskSequenceGroup _TaskSequenceGroup4 = new TaskSequenceGroup("SeqGroup4");;
-	private TaskSequenceGroup _TaskSequenceGroup5 = new TaskSequenceGroup("SeqGroup5");;
+	private TaskSequenceGroup _TaskSequenceGroup2 = new TaskSequenceGroup("SeqGroup2");
+	private TaskSequenceGroup _TaskSequenceGroup3 = new TaskSequenceGroup("SeqGroup3");
+	private TaskSequenceGroup _TaskSequenceGroup4 = new TaskSequenceGroup("SeqGroup4");
+	private TaskSequenceGroup _TaskSequenceGroup5 = new TaskSequenceGroup("SeqGroup5");
 	
 	private SendableChooser<String> _ActionChooser = new SendableChooser<>();
 	
